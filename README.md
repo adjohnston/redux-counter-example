@@ -7,4 +7,4 @@ A simple counter Redux example taken from Dan Abramov's Egghead.io video series
 
 ## Run
 - `python -m SimpleHTTPServer`
-- visit http://localhost:8000
+- visit [localhost](http://localhost:8000)
