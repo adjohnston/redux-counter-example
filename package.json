@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/adjohnston/redux-counter-example/issues"
   },
-  "homepage": "https://github.com/adjohnston/redux-counter-example#readme"
+  "homepage": "https://github.com/adjohnston/redux-counter-example#readme",
+  "dependencies": {
+    "jspm": "^0.16.23"
+  }
 }
